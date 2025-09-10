@@ -12,8 +12,9 @@ class LinearRegression():
         return np.sum((y_hat - y)**2)/(2*y.shape[0])
     
     def _add_ones(self, arr):
-        one_arr = np.ones(arr.shape[0])
+        
         if arr.ndim == 1:
+            one_arr = np.ones(arr.shape[0])
             return np.vstack([one_arr, arr]).T 
         return np.hstack([one_arr.reshape(-1,1), arr])
         
