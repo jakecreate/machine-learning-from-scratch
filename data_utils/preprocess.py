@@ -1,5 +1,13 @@
 import numpy as np
 
+class StandardScaler():
+    def __init__(self, X):
+        self.mean = np.mean(X, axis=0)
+        self.std = np.std(X, axis=0)
+    
+    def scale(self, X):
+        return (X - self.mean)/self.std
+
 def train_test_split(X, y, p_train=0.6):
     n = X.shape[0]
     sample_indicies = np.arange(0, n)
