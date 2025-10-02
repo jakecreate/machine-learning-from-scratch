@@ -1,5 +1,5 @@
 # Machine Learning from Scratch
-Machine Learning models & concepts from scratch through mathematical notes & implementation using Python & `NumPy` for vectorization.
+Machine Learning models & concepts from scratch through personal notes & implementation using Python & `NumPy` for vectorization.
 
 <table align="center">
   <tr>
@@ -8,6 +8,13 @@ Machine Learning models & concepts from scratch through mathematical notes & imp
     </td>
     <td>
       <img src="./images/numpy.png" alt="NumPy logo", width=200>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <img src="./images/bias-variance_trade-off.png" alt="Python logo">
     </td>
   </tr>
 </table>
