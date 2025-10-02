@@ -1,12 +1,12 @@
 # Machine Learning from Scratch
 Machine Learning models & concepts from scratch through personal notes & implementation using Python & `NumPy` for vectorization.
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/python-logo.png" width="100" />
     <img src="./images/numpy.png" width="200"/>
   </p>
 </div>
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/bias-variance_trade-off.png" alt="bias-variance_trade-off">
   </p>
@@ -22,39 +22,39 @@ The project is organized to be clean and easy to navigate:
 
 ## Visualization Highlights
 Linear Regression:
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/pop_quiz_data.png"/>
     <img src="./images/train_test_split.png"/>
   </p>
 </div>
 
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/loss_curve.png" alt="GD loss curve">
   </p>
 </div>
 
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/under_fitting_example.png" alt="underfitting example">
   </p>
 </div>
 
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/bias-variance_trade-off.png" alt="bias-variance_trad-off">
   </p>
 </div>
 
 Classification:
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/logistic_regression_model.png" alt="logistic regression model">
   </p>
 </div>
 
-<div style="margin: 0 auto; width: fit-content;">
+<div style="margin: 0 auto; width: fit-content; text-align: center;">
   <p>
     <img src="./images/confusion_matrix.png" alt="test data confusion matrix">
   </p>
