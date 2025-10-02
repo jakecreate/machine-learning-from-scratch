@@ -1,3 +1,11 @@
 # Machine Learning from Scratch
+An ongoing notebook to understanding classic & popular machine learing models and concepts. Implementing them from scratch using `python` and `numpy` for vectorization.
 
-This repository contains my from-scratch implementations of fundamental machine learning alogrithms. This project goal is to build a deep, first-principles understanding of how these models work.
+<table align="center">
+  <tr>
+    <td><img src="./images/python-logo.png" alt="Python logo"></td>
+    <td><img src="./images/numpy.png" alt="NumPy logo"></td>
+  </tr>
+</table>
+
+
