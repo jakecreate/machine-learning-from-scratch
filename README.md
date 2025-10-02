@@ -1,6 +1,6 @@
 # Machine Learning from Scratch
 Machine Learning models & concepts from scratch through personal notes & implementation using Python & `NumPy` for vectorization.
-<div style="margin: 0 auto; width: fit-content; text-align: center;">
+<div style="margin: 0 auto; width: fit-content; display: flex; justify-content: center;">
   <p>
     <img src="./images/python-logo.png" width="100" />
     <img src="./images/numpy.png" width="200"/>
