@@ -1,32 +1,18 @@
 # Machine Learning from Scratch
-Machine Learning models & concepts from scratch through personal notes & implementation using Python & `NumPy` for vectorization.
-<table align="center">
-  <tr>
-    <td>
-      <img src="./images/python-logo.png" alt="Python logo", width=100>
-    </td>
-    <td>
-      <img src="./images/numpy.png" alt="NumPy logo", width=200>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td>
-      <img src="./images/bias-variance_trade-off.png" alt="Python logo">
-    </td>
-  </tr>
-</table>
+**Purpose:** to implement ML models and concepts from scratch using NumPy for personal learning purposes.
+<p align="center" width="100%">
+    <img width="33%" src="./images/numpy.png"> 
+</p>
 
-## Content Overview
-The project is organized to be clean and easy to navigate:
-
+## Navigation
 * `notebooks/`: Contains the Jupyter Notebooks that walk through the implementation, explanation, and visualization of each algorithm.
 * `custom_models/`: The core Python scripts containing the class-based implementations of the machine learning models.
 * `data_utils/`: Utility scripts for data loading and preprocessing.
 * `images/`: Visualizations and plots generated from the notebooks.
 
-## Current Highlights
+## Current Content Overview
+
+## Visualization
 Linear Regression:
 <table align="center">
   <tr>
