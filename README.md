@@ -3,6 +3,7 @@ Implementing ML models and concepts from scratch using NumPy for personal learni
 <p align="center" width="100%">
     <img width="33%" src="./images/numpy.png"> 
 </p>
+
 ## Navigation
 * `notebooks/`: Jupyter Notebooks that walk through the implementation, explanation, and visualization of ML models and concepts.
 * `custom_models/`: Python scripts containing the class-based implementations of the machine learning models.
@@ -10,6 +11,9 @@ Implementing ML models and concepts from scratch using NumPy for personal learni
 * `images/`: Visualizations and plots generated from the notebooks.
 
 ## Visualization Highlight
+<p align="center" width="100%">
+    <img width=100%" src="./images/data_split.png"> 
+</p>
 <p align="center" width="100%">
     <img width=100%" src="./images/bias-variance_trade-off.png"> 
 </p>
