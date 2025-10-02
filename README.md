@@ -1,10 +1,10 @@
 # Machine Learning from Scratch
 Machine Learning models & concepts from scratch through mathematical notes & implementation using Python & `NumPy` for vectorization.
 
-<table align="center" border=0>
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td><img src="./images/python-logo.png" alt="Python logo", width=100></td>
-    <td><img src="./images/numpy.png" alt="NumPy logo", width=200></td>
+    <td style="border: none;" ><img src="./images/python-logo.png" alt="Python logo", width=100></td>
+    <td style="border: none;"><img src="./images/numpy.png" alt="NumPy logo", width=200></td>
   </tr>
 </table>
 
