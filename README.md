@@ -37,7 +37,7 @@ Implementing ML models and concepts from scratch using NumPy for personal learni
         - MSE
         - Log loss
     - Gradient Descent
-      - Convergence & divergence
+      - Cause for divergence
     - Feature Scaling
     - Bias-Variance Trade-off
     - Polynomial Regression
@@ -45,11 +45,24 @@ Implementing ML models and concepts from scratch using NumPy for personal learni
     - Evaluating Model Performance
     - Implementation of `LinearRegression()` & `LogisticRegression()`
   - `2_historical_simple_algorithms`
-    - Artificial Neurons
+    - Artificial Neuron
     - Perceptron Learning Rule
 - Data Utility:
   - Train test split
   - Standard scaling
 
 
+## Requirements
+- Python 3.12.11
+- numpy==2.3.1
+- matplotlib==3.10.0
 
+## Installation
+Pip:
+```bash
+pip install numpy==2.3.1 matplotlib==3.10.0
+```
+or Conda:
+```bash
+conda install numpy=2.3.1 matplotlib=3.10.0
+```
